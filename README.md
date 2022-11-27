@@ -11,7 +11,7 @@
 
 <!--          LİNKLERİN 1. SATIR ALANI          -->
 <table class="center">
-<tr><b>   ⬇️⬇️⬇️⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sosyal Medya  ve  İletişim Linkleri  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️⬇️⬇️⬇️   </b></tr>
+<tr><b>   ⬇️⬇️⬇️⬇️&nbsp;&nbsp;&nbsp;&nbsp;  Sosyal Medya  ve  İletişim Linkleri  &nbsp;&nbsp;&nbsp;&nbsp;⬇️⬇️⬇️⬇️   </b></tr>
 <tr>
 <td><a href="https://www.youtube.com/channel/UCyXFujTOqgRz9oqU8V-hXww"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <td><a href="https://www.instagram.com/ouzpinkman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -35,8 +35,6 @@
 
 <!--          GİTHUB STATS ALANI          -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ouzcelikutku&theme=blue-green">
-<br />
-<br />
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JokerSob.jokersob)](#)
 <br />
