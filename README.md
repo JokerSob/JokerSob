@@ -1,8 +1,8 @@
 <!--          HEADER ALANI          -->
 <a href="https://github.com/JokerSob"><img align="center" alt="header" width="700" src="JokerSob.png"></a>
-<img align="right" alt="avatar" width="400" height= "200" src="JokerSob.gif"> 
+<img align="right" alt="avatar" width="450" height= "200" src="JokerSob.gif"> 
 
-# JokerSob Blog <img align="center" alt="github" width="50" src="github.svg">
+# JokerSob Blog <img align="center" alt="github" width="40" src="github.svg">
 
 ## <img src="https://img.shields.io/badge/CyberSecurity-Consultant%20%2F%20Programmer%20%2F%20Pentester%20%2F%20Trainer-blue">
 
