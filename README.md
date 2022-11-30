@@ -1,6 +1,6 @@
 <!--          HEADER ALANI          -->
 <a href="https://github.com/JokerSob"><img align="center" alt="header" width="700" src="JokerSob.png"></a>
-<img align="right" alt="avatar" width="450" height= "200" src="JokerSob.gif"> 
+<img align="right" alt="avatar" width="450" height= "200" src="https://github.com/JokerSob/JokerSob/blob/main/JokerSob.gif"> 
 
 # JokerSob Blog <img align="center" alt="github" width="40" src="github.svg">
 
@@ -32,10 +32,11 @@
 <br />
 
 <!--          GİTHUB STATS ALANI          -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouzcelikutku&theme=blue-green">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=OuzCelikutku&theme=blue-green">
+
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JokerSob.jokersob)](#)
-<br />
 
 # <b> Youtube Videoları </b>
 
