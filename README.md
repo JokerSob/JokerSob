@@ -35,6 +35,7 @@ Uzun yıllardır siber güvenlik alanında kendimi geliştiriyorum ve geliştirm
 # <b> Youtube Videoları </b>
 
 <!-- YOUTUBE:START -->
+- [Python3 PySide2 Kayıt Takip Sistemi - Record Tracking System](https://www.youtube.com/watch?v=o6rxynFl3hc)
 <!-- YOUTUBE:END -->
 
 <br />
